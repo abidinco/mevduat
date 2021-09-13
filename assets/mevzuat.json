@@ -1,0 +1,32 @@
+[
+  {
+    "number": "2559",
+    "id": "pvsk",
+    "name": "PVSK",
+    "updatedAt": "9 Eylül 2021"
+  },
+  {
+    "number": "5271",
+    "id": "cmk",
+    "name": "CMK",
+    "updatedAt": "9 Eylül 2021"
+  },
+  {
+    "number": "5237",
+    "id": "tck",
+    "name": "Türk Ceza Kanunu",
+    "updatedAt": "2 Eylül 2021"
+  },
+  {
+    "number": "5275",
+    "id": "cgtik",
+    "name": "İnfaz Kanunu",
+    "updatedAt": "11 Eylül 2021"
+  },
+  {
+    "number": "5326",
+    "id": "kabahat",
+    "name": "Kabahatler Kanunu",
+    "updatedAt": "3 Eylül 2021"
+  }
+]
