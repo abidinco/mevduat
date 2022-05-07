@@ -10,4 +10,4 @@ is a flutter app for Turkish laws.
 - [Law of Police Powers](https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2559.pdf) (PVSK)
 
 ## Demo
-![demo.gif](demo.gif)
+https://user-images.githubusercontent.com/71569044/167267686-058a34e8-4c26-4266-bfcc-dd7af909941e.mp4
